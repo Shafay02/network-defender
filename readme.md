@@ -66,14 +66,11 @@ Rule auto-removed after ban expires ← self-cleaning
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-defender.git
+git clone https://github.com/Shafay02/network-defender.git
 cd network-defender
 ```
 
-**2. Install dependencies**
-```bash
-pip install -r requirements.txt
-```
+**2. No dependencies needed — uses Python standard library only.**
 
 **3. Run the engine**
 ```bash
